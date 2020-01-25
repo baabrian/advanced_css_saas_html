@@ -1,0 +1,19 @@
+*,
+*::after,
+*::before {
+    margin: 0;
+    padding: 0;
+    box-sizing: inherit;
+}
+
+/*
+all font family should go inside the body
+*/ 
+
+html {
+    font-size: 63%;
+}
+
+body {
+    box-sizing: border-box;
+}
