@@ -4,7 +4,8 @@
   "description": "learning how to do advanced css and sass for html",
   "main": "index.js",
   "dependencies": {
-    "node-sass": "^4.13.1"
+    "node-sass": "^4.13.1",
+    "watch": "^1.0.2"
   },
   "devDependencies": {},
   "scripts": {
